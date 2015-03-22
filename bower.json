@@ -1,0 +1,25 @@
+{
+  "name": "uhura-offline-browser",
+  "version": "0.0.1",
+  "homepage": "https://github.com/uhuraapp/uhura-offline-browser",
+  "authors": [
+    "Duke <dukekhaos@gmail.com>"
+  ],
+  "description": "Uhura Offline Support for Browser",
+  "main": "build/uhura-offline-browser.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "offline"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

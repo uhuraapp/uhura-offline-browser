@@ -1,0 +1,25 @@
+{
+  "name": "uhura-offline-browser",
+  "version": "0.0.1",
+  "description": "Uhura Offline Support for Browser",
+  "main": "build/uhura-offline-browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uhuraapp/uhura-offline-browser.git"
+  },
+  "keywords": [
+    "offline"
+  ],
+  "author": "Duke <dukekhaos@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uhuraapp/uhura-offline-browser/issues"
+  },
+  "homepage": "https://github.com/uhuraapp/uhura-offline-browser",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
